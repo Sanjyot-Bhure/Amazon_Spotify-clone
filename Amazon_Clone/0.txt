@@ -1,0 +1,3 @@
+This is Spotify clone of Amazon app.
+Not working with js tho.
+Just a frontend designing and all stuff
